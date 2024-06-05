@@ -1,3 +1,4 @@
+[![Math Utility Project](https://github.com/huyhoang-doit/math-util/actions/workflows/maven.yml/badge.svg)](https://github.com/huyhoang-doit/math-util/actions/workflows/maven.yml)
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff
