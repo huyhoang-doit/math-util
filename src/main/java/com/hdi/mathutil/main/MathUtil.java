@@ -18,6 +18,11 @@ public class MathUtil {
         
     }
 
+    // this method is written directly in server to simulate
+    public static void sayHiFormServer() {
+        
+    }
+
     public static void main(String[] args) {
         // CACH KIEM THU 2 - GIONG CACH 1
         // Test case #1: check if 0! return 1
