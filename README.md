@@ -6,6 +6,7 @@
 * A Java Project (using Maven) to demonstrate a Math library as in JDK
 * A Unit Test test script using JUnit Test framework and TDD, DDT technique 
 * A CI script to demonstrate the Continous Integration using GitHub Actions
+* A demostraion on what is the regresstion test (Kiểm thử hồi quy)
 
 ### Connect me via: huyhoangdoit.171@gmail.com
 
