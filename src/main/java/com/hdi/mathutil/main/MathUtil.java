@@ -13,6 +13,10 @@ import javax.swing.JOptionPane;
  * @author lvhho
  */
 public class MathUtil {
+    
+    public static void SayHiFromLocal() {
+        
+    }
 
     public static void main(String[] args) {
         // CACH KIEM THU 2 - GIONG CACH 1
